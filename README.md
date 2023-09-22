@@ -1,8 +1,7 @@
 # FakeLMS
 
 DBMS micro project- Instructions to run
-
-IMT2021018 IMT2021066 IMT2021067
+Vineet Priyedarshi  Brij Desai  Yukta Rajapur
 
 ## Installation
 Create a new database called fakelms
